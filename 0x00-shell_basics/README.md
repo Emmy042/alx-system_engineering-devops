@@ -5,3 +5,5 @@ this scripts get the current working directory in linux
 4-listmorefiles -- this script list all files and hidden files in long format
 5-listfilesdigitonly -- this script list all files in current directory with user and group IDs
 6-firstdirectory -- this script creates a firstdirectory in the /tmp
+7-movethatfile -- this script moves the file betty to /tmp/my-first-directory
+
