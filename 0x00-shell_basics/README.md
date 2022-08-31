@@ -6,4 +6,5 @@ this scripts get the current working directory in linux
 5-listfilesdigitonly -- this script list all files in current directory with user and group IDs
 6-firstdirectory -- this script creates a firstdirectory in the /tmp
 7-movethatfile -- this script moves the file betty to /tmp/my-first-directory
+8-firstdelete -- this script deletes the file betty
 
