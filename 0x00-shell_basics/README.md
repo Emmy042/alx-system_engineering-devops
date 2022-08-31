@@ -11,4 +11,5 @@ this scripts get the current working directory in linux
 10-back -- this script chnages to the previous working directory
 11-lists -- list files in the parent directory and /boot
 12-file-type -- this script gets a file type
+13-symbolic-link -- this script makes a symbolic link 
 
