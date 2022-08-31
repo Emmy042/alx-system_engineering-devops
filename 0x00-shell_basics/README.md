@@ -4,3 +4,4 @@ this scripts get the current working directory in linux
 3-listfiles -- this script list all fies and directories in long format
 4-listmorefiles -- this script list all files and hidden files in long format
 5-listfilesdigitonly -- this script list all files in current directory with user and group IDs
+6-firstdirectory -- this script creates a firstdirectory in the /tmp
