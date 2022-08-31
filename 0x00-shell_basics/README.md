@@ -8,4 +8,5 @@ this scripts get the current working directory in linux
 7-movethatfile -- this script moves the file betty to /tmp/my-first-directory
 8-firstdelete -- this script deletes the file betty
 9-firstdirdeletion --this script deletes the my-first-directory
+10-back -- this script chnages to the previous working directory
 
