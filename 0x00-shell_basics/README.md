@@ -9,4 +9,5 @@ this scripts get the current working directory in linux
 8-firstdelete -- this script deletes the file betty
 9-firstdirdeletion --this script deletes the my-first-directory
 10-back -- this script chnages to the previous working directory
+11-lists -- list files in the parent directory and /boot
 
