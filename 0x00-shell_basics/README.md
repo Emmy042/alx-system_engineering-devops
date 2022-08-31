@@ -12,4 +12,5 @@ this scripts get the current working directory in linux
 11-lists -- list files in the parent directory and /boot
 12-file-type -- this script gets a file type
 13-symbolic-link -- this script makes a symbolic link 
+14-copy-html -- this script copies all files with .html
 
