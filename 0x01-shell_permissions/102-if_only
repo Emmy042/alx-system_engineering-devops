@@ -1,16 +1,2 @@
 #!/bin/bash
-file_path="."
-new_owner_name="betty"
 
-# check if file is owned by betty
-
-if [ "$(stat -c '%U' "$file_path")" = "$new_owner_name" ]; then
-echo "the file is already owned by $New_owner_name."
-
-else
-
-# change the file owner to new_owner_name
-chown "new_owner_name" "file_path"
-echo "the file has been changed to betty."
-
-fi
