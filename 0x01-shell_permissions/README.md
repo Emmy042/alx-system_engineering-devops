@@ -1,0 +1,1 @@
+this folder conatins common commands for shell permissions
