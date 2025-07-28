@@ -1,0 +1,1 @@
+this folder contains all common shell commands for redirections
