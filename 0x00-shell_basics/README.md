@@ -1,0 +1,1 @@
+this folder contains all the common commands used in unix like linux
