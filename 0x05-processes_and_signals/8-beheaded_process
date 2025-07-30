@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# stops the 7-highlander process by beheading
+
+a=$(ps aux | grep '[7]-highlander' | awk '{print $2}')
+
+kill -9 "$a"

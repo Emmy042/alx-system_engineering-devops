@@ -1,0 +1,1 @@
+this folder contains mandatory tasks on linux process and signals
