@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+
+# Display only listening sockets with PID and program name
+sudo lsof -nP -iTCP -iUDP -sTCP:LISTEN
