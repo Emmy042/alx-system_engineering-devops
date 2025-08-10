@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# fixing the issue on querying web server
+
+sudo apt-get update -y
+sudo apt install -y apache2
+sudo /etc/init.d/apache2 start
+echo "Hello ALX" | sudo tee -a /var/www/html/index.html
+sudo /etc/init.d/apache2 restart
